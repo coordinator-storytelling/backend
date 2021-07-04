@@ -28,3 +28,5 @@ Bountiful requires you to create your own environmental files and variables to r
 - run `yarn server`
 - The server will start server side
 - To run Jest tests, run `yarn test`
+
+- Bountiful
